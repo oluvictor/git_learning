@@ -1,36 +1,9 @@
-/*! Lity - v2.3.1 - 2018-04-20
-* http://sorgalla.com/lity/
-* Copyright (c) 2015-2018 Jan Sorgalla; Licensed MIT */
-.lity {
-  z-index: 9990;
-  position: fixed;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  white-space: nowrap;
-  background: #0b0b0b;
-  background: rgba(0, 0, 0, 0.95);
-  outline: none !important;
-  opacity: 0;
-  -webkit-transition: opacity 0.3s ease;
-  -o-transition: opacity 0.3s ease;
-  transition: opacity 0.3s ease;
-}
-.lity.lity-opened {
-  opacity: 1;
-}
-.lity.lity-closed {
-  opacity: 0;
-}
-.lity * {
-  -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-          box-sizing: border-box;
-}
-.lity-wrap {
-  z-index: 9990;
-  position: fixed;
+kwe wke fwkej fwkef
+ef
+webkit-appearancefw
+efw
+fwe
+
   top: 0;
   right: 0;
   bottom: 0;
